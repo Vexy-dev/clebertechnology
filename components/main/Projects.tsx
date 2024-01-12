@@ -8,23 +8,23 @@ const Projects = () => {
       id="projects"
     >
       <h1 className="text-[40px] font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500 py-20">
-        My Projects
+         Meus projetos
       </h1>
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
         <ProjectCard
-          src="/NextWebsite.png"
-          title="Modern Next.js Portfolio"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          src="/CharmeClinica.png"
+          title="Charme Clinica Biomédica"
+          description="Um site totalmente versátil, limpo e atrativo, destacando-se como plataforma principal para uma clínica de estética biomédica. Ele visa apresentar serviços de forma eficiente, facilitando o agendamento de horários. Este projeto é verdadeiramente extraordinário, atendendo precisamente às solicitações da cliente."
         />
         <ProjectCard
-          src="/CardImage.png"
-          title="Interactive Website Cards"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          src="/LabHosting.png"
+          title="LabHosting"
+          description="Um projeto de website extremamente moderno e atrativo, destacando-se pelo estilo neon e um visual versátil. Sua principal função é automatizar as vendas de hospedagens gamer no mercado brasileiro, ao mesmo tempo em que gerencia eficientemente dados e informações relacionadas ao serviço oferecido."
         />
         <ProjectCard
-          src="/SpaceWebsite.png"
-          title="Space Themed Website"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          src="/UrbanRoleplay.png"
+          title="Urban Roleplay"
+          description="Um site completamente clean e contemporâneo, apresentando uma infraestrutura tecnológica de última geração, além de um design visualmente impressionante e destacado. Um projeto verdadeiramente extraordinário."
         />
       </div>
     </div>
